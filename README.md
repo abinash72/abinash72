@@ -7,6 +7,8 @@
 
 <p align="left"> <a href="https://twitter.com/abinash25051377" target="blank"><img src="https://img.shields.io/twitter/follow/abinash25051377?logo=twitter&style=for-the-badge" alt="abinash25051377" /></a> </p>
 
+[![An image of @abinash76's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/abinash76)](https://holopin.io/@abinash76)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/abinash25051377" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="abinash25051377" height="30" width="40" /></a>
